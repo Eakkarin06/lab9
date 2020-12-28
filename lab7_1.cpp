@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
   char rank;
-  cout << "Input your rank:";
+  cout << "Input your rank: ";
   cin >> rank;
   switch(rank){
     case 'S': cout << "You have received Super Ultra Rare Unit!!!\n";
